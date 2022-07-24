@@ -147,7 +147,7 @@ function nextCardChecker() {
     ['fa-satellite'],
     ['fa-satellite-dish'],
     ['fa-user-astronaut'],
-    ['fa-squarespace'],
+    ['fa-squarespace'git status],
     ['fa-atom'],
     ];
   for (i = 0; i < iconsArray2.length; i++) {
